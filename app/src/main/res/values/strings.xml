@@ -1,0 +1,16 @@
+<resources>
+    <!--App name-->
+    <string name="app_name">VideoTask</string>
+
+    <!--Strings-->
+    <string name="empty_string">""</string>
+    <string name="hyphen">"--"</string>
+
+    <!--Fragment Start-->
+    <string name="utx_technologies">UTX Technologies</string>
+
+    <!--Fragment Start List Item-->
+    <string name="media_image_view">Media image view</string>
+    <string name="volume_image_view">Volume image view</string>
+
+</resources>
